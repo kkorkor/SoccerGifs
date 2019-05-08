@@ -1,0 +1,39 @@
+body {
+    background: url(../images/1280px-FIFA_Logo_\(2010\).svg.png);
+}
+
+
+.teamBtn {
+    background-color:grey;
+    color:white;
+    padding: 4px;
+    margin: 8px;
+    border: black
+}
+
+
+#newTeamInput {
+    color: black;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#newTeam {
+    background-color: white;
+    color: grey;
+    border: none;
+}
+
+
+button {
+    background-color: black;
+    border: black;
+}
+
+#stButtons {
+    margin: 10px;
+}
+
